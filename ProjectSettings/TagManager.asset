@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Alien
+  - MotherShip
+  - EnemyBullet
+  - FriendlyBullet
   layers:
   - Default
   - TransparentFX
